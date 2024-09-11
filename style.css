@@ -1,0 +1,32 @@
+img {
+    border-radius: 75px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+body {
+    background: linear-gradient(to right,#005f73, #e9d8a6);
+    font-family: 'Trebuchet MS';
+    color: #edf6f9;
+    text-align: center;
+}
+
+a {
+    background-color: #edf6f9;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    color: #005f73 ;
+    text-decoration: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+a:hover {
+    color: #edf6f9;
+    background-color: #005f73;
+}
